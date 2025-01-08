@@ -37,8 +37,6 @@ This allows for customized analysis tailored to specific interests or research n
   - Study the sharing economy or urban tourism using empirical data.
 
 ## Explore the Dashboard
-You can explore the interactive dashboard here:  
-[**Airbnb Dashboard**](https://public.tableau.com/app/profile/raghav5168/viz/AirbnbDashboard_16653180173910/Dashboard1)
 
 > *Note: For optimal performance, ensure that JavaScript is enabled in your browser.*
 
